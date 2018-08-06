@@ -1,0 +1,14 @@
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\bin\Debug\RDPv1.exe.config
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\bin\Debug\RDPv1.exe
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\bin\Debug\RDPv1.pdb
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\bin\Debug\Interop.MSTSCLib.dll
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\bin\Debug\AxInterop.MSTSCLib.dll
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.csprojResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\Interop.MSTSCLib.dll
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\AxInterop.MSTSCLib.dll
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.csproj.ResolveComReference.cache
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.Form1.resources
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.Properties.Resources.resources
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.csproj.GenerateResource.Cache
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.exe
+c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.pdb
