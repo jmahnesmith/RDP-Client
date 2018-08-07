@@ -12,3 +12,17 @@ c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.
 c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.csproj.GenerateResource.Cache
 c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.exe
 c:\users\josh\documents\visual studio 2013\Projects\RDPv1\RDPv1\obj\Debug\RDPv1.pdb
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\bin\Debug\RDPv1.exe.config
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\obj\Debug\RDPv1.csproj.ResolveComReference.cache
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\obj\Debug\RDPv1.exe
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\obj\Debug\RDPv1.pdb
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\bin\Debug\RDPv1.exe
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\bin\Debug\RDPv1.pdb
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\obj\Debug\RDPv1.csprojResolveAssemblyReference.cache
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\obj\Debug\RDPv1.Form1.resources
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\obj\Debug\RDPv1.Properties.Resources.resources
+C:\Users\Josh\OneDrive\Documents\GitHub\RDP-Client\RDPv1\obj\Debug\RDPv1.csproj.GenerateResource.Cache

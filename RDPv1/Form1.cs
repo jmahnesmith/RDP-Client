@@ -32,6 +32,10 @@ namespace RDPv1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            serverList.Nodes.Add("Knox CC");
+            serverList.Nodes[0].Nodes.Add("192.168.254.5");
+            serverList.Nodes[0].Nodes.Add("192.168.254.20");
+            serverList.Nodes[0].Nodes.Add("192.168.254.48");
 
         }
 
@@ -50,6 +54,22 @@ namespace RDPv1
         private void button1_Click(object sender, EventArgs e)
         {
             comboBox1.SelectedItem.ToString();
+        }
+
+       
+
+        private void serverListButton_CheckedChanged(object sender, EventArgs e)
+        {
+            
+            if (serverListButton.Checked)
+            {
+                serverList.Visible = true;
+            }
+            else
+            {
+                serverList.Visible = false;
+
+            }
         }
 
        

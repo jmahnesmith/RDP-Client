@@ -39,6 +39,8 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.disconnectbtn = new System.Windows.Forms.Button();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.serverList = new System.Windows.Forms.TreeView();
+            this.serverListButton = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.rdp)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,10 +50,10 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.rdp.Enabled = true;
-            this.rdp.Location = new System.Drawing.Point(3, 27);
+            this.rdp.Location = new System.Drawing.Point(3, 12);
             this.rdp.Name = "rdp";
             this.rdp.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("rdp.OcxState")));
-            this.rdp.Size = new System.Drawing.Size(1573, 587);
+            this.rdp.Size = new System.Drawing.Size(1573, 602);
             this.rdp.TabIndex = 0;
             // 
             // usernameBox
@@ -133,13 +135,38 @@
             // 
             // comboBox1
             // 
+            this.comboBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "192.168.254.5"});
+            "192.168.254.5",
+            "192.168.254.20",
+            "192.168.254.48"});
             this.comboBox1.Location = new System.Drawing.Point(82, 635);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(130, 21);
             this.comboBox1.TabIndex = 14;
+            // 
+            // serverList
+            // 
+            this.serverList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.serverList.Location = new System.Drawing.Point(1400, 12);
+            this.serverList.Name = "serverList";
+            this.serverList.Size = new System.Drawing.Size(176, 602);
+            this.serverList.TabIndex = 15;
+            this.serverList.Visible = false;
+            // 
+            // serverListButton
+            // 
+            this.serverListButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.serverListButton.Appearance = System.Windows.Forms.Appearance.Button;
+            this.serverListButton.AutoSize = true;
+            this.serverListButton.Location = new System.Drawing.Point(1433, 637);
+            this.serverListButton.Name = "serverListButton";
+            this.serverListButton.Size = new System.Drawing.Size(97, 23);
+            this.serverListButton.TabIndex = 16;
+            this.serverListButton.Text = "Show Server List";
+            this.serverListButton.UseVisualStyleBackColor = true;
+            this.serverListButton.CheckedChanged += new System.EventHandler(this.serverListButton_CheckedChanged);
             // 
             // Form1
             // 
@@ -147,8 +174,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.BackColor = System.Drawing.Color.SeaShell;
+            this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.ClientSize = new System.Drawing.Size(1578, 673);
+            this.Controls.Add(this.serverListButton);
+            this.Controls.Add(this.serverList);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.disconnectbtn);
             this.Controls.Add(this.label3);
@@ -181,6 +210,8 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.Button disconnectbtn;
         private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.TreeView serverList;
+        private System.Windows.Forms.CheckBox serverListButton;
     }
 }
 
