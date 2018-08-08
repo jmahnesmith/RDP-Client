@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RDPv1
+namespace AddServerForm
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace RDPv1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new rdpForm());
+            Application.Run(new addServerForm());
         }
     }
 }
