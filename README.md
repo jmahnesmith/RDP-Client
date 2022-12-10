@@ -20,13 +20,6 @@ A windows form applicaiton written in C# that allows the user to catalog differe
 * Download repository and run RDPv1/bin/Debug/RDPv1.exe
 
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
 
 * 0.1
